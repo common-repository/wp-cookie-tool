@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Cookie Tool\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-11-27 14:10+0100\n"
+"PO-Revision-Date: 2013-11-27 14:15+0100\n"
+"Last-Translator: Carlos Morales <carlos@cmorales.es>\n"
+"Language-Team: Carlos Morales Pereira, Emilio Cobos Álvarez <carlos@cmorales.es>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-cookietool.php:59
+msgid "The message you are going to show"
+msgstr "El mensaje que vas a mostrar"
+
+#: ../wp-cookietool.php:60
+msgid "I agree"
+msgstr "Aceptar"
+
+#: ../wp-cookietool.php:61
+msgid "I disagree"
+msgstr "Rechazar"
+
+#: ../wp-cookietool.php:82
+#: ../wp-cookietool.php:83
+msgid "WP Cookie Tool"
+msgstr "WP Cookie Tool"
+
+#: ../wp-cookietool.php:100
+msgid "General"
+msgstr "General"
+
+#: ../wp-cookietool.php:106
+msgid "Scripts"
+msgstr "Scripts"
+
+#: ../wp-cookietool.php:115
+msgid "Load css?"
+msgstr "Cargar css?"
+
+#: ../wp-cookietool.php:122
+msgid "Cookie policy page link"
+msgstr "Link a página de política de cookies"
+
+#: ../wp-cookietool.php:129
+msgid "Cookie policy page title"
+msgstr "Título de la página de política de cookies."
+
+#: ../wp-cookietool.php:136
+msgid "Panel class"
+msgstr "Clase del panel"
+
+#: ../wp-cookietool.php:143
+msgid "Message"
+msgstr "Mensaje"
+
+#: ../wp-cookietool.php:150
+msgid "Agree text"
+msgstr "Texto para aceptar"
+
+#: ../wp-cookietool.php:157
+msgid "Decline text"
+msgstr "Texto para rechazar"
+
+#: ../wp-cookietool.php:166
+msgid "Google Analytics Code"
+msgstr "Código de Google Analytics"
+
+#: ../wp-cookietool.php:180
+msgid "Some code, such as Google Analytics, needs to be modified to prevent it to store cookies before the user consent."
+msgstr "Es necesario modificar algún código, como el de Google Analytics, para evitar que almacene cookies antes del consentimiento del usuario. "
+
+#: ../wp-cookietool.php:180
+msgid "The plugin can insert a modified version for you, or you can choose to do it for yourself."
+msgstr "El plugin puede insertar la versión modificada por ti, o puedes hacerlo tú  mismo."
+
+#: ../wp-cookietool.php:181
+msgid "Currently, Google Analytics and AdSense are supported."
+msgstr "Actualmente, están soportados Google Analytics y Adsense. "
+
+#: ../wp-cookietool.php:182
+msgid "For Google Analytics, you have to avoid loading the script, leaving just this:"
+msgstr "Para Google Analytics, tienes que evitar cargar el script, dejando sólo esto:"
+
+#: ../wp-cookietool.php:190
+msgid "You can do it by yourself, or insert your code below and the plugin will do it for you."
+msgstr "Puedes hacerlo por ti mismo, o pegar tu código debajo y el plugin lo hará por ti."
+
+#: ../wp-cookietool.php:191
+msgid "Regarding Google AdSense, you need to use the asynchronous version."
+msgstr "Con respecto a Google Adsense, tienes que usar la versión asíncrona. "
+
+#: ../wp-cookietool.php:204
+#, fuzzy
+msgid "WP Cookie Tool Settings"
+msgstr "Opciones de WP Cookie Tool"
+
+#: ../wp-cookietool.php:226
+msgid "Uncheck if you don't want to include the default styles."
+msgstr "Desmarca si no quieres incluir los estilos css por defecto."
+
+#: ../wp-cookietool.php:240
+msgid "Place here your privacy/cookie policy page URL."
+msgstr "URL de la página con tu política de privacidad/cookies. "
+
+#: ../wp-cookietool.php:241
+msgid "You will need to place the [wp_ct-cookie-div] shortcode in that page."
+msgstr "Tendrás que poner el shortcode [wp_ct-cookie-div] en dicha página."
+
+#: ../wp-cookietool.php:254
+msgid "Place here your privacy/cookie policy title"
+msgstr "Título de la página con tu política de privacidad/cookies. "
+
+#: ../wp-cookietool.php:266
+msgid "Panel's CSS class name."
+msgstr "Nombre de la clase CSS del panel."
+
+#: ../wp-cookietool.php:278
+msgid "This is the text you show to your visitors."
+msgstr "Este es el texto que muestras a tus visitantes."
+
+#: ../wp-cookietool.php:290
+msgid "Text to agree."
+msgstr "Texto para aceptar."
+
+#: ../wp-cookietool.php:303
+msgid "Text to decline."
+msgstr "Texto para rechazar."
+
+#: ../wp-cookietool.php:315
+msgid "Your account code"
+msgstr "Tu código de cuenta de GA"
+
+#: ../wp-cookietool.php:316
+msgid "Your account code looks like this: UA-12345678-9"
+msgstr "Tu código de cuenta tiene este formato: UA-12345678-9"
+
+#: ../wp-cookietool.php:317
+msgid "Leave blank if you don't use Google Analytics or if you will insert the code on your own."
+msgstr "Déjalo en blanco si no usas Google Analytics o si quieres insertar el código por tu cuenta."
+
+#: ../wp-cookietool.php:396
+msgid "You currently <strong>allow</strong> cookies in this site. <button type=\"button\" class=\"button-basic\" data-action=\"decline\">Click here to disallow cookies</button>"
+msgstr "Actualmente <strong>aceptas</strong> el uso de cookies en el sitio. <button type=\"button\" class=\"button-basic\" data-action=\"decline\">Pulsa aquí para rechazar cookies</button>"
+
+#: ../wp-cookietool.php:397
+msgid "You currently <strong>disallow</strong> cookies in this site. <button type=\"button\" class=\"button-basic\" data-action=\"agree\">Click here to allow cookies</button>"
+msgstr "Actualmente <strong>no aceptas</strong> el uso de cookies en el sitio. <button type=\"button\" class=\"button-basic\" data-action=\"agree\">Pulsa aquí para permitir cookies</button>"
+
+#: ../wp-cookietool.php:398
+msgid "You haven't yet established your configuration. <button type=\"button\" class=\"button-basic\" data-action=\"agree\">Click here to allow cookies</button> or <button type=\"button\" class=\"button-basic\" data-action=\"decline\">click here to disallow cookies</button>"
+msgstr "Aún no has establecido tu configuración. Haz click <button type=\"button\" class=\"button-basic\" data-action=\"agree\">aquí</button> si quieres aceptar el uso de cookies, o <button type=\"button\" class=\"button-basic\" data-action=\"decline\">aquí</button> si no."
+
